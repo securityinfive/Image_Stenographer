@@ -1,7 +1,7 @@
 # Image_Stenographer
 Embed secret messages into image files and decode them.
 
-This is a straight forward script to embed secret messaged into an image, called stenagraphy, and decode those images to get the message out. Not perfect, no error handling, but if you use straight text files or .msg files (text) it will work fine. 
+This is a straight forward script to embed secret messages into an image, called stenagraphy, and decode those images to get the message out. Not perfect, no error handling, but if you use straight text files or .msg files (text) it will work fine. 
 
 You run this from a command line and can add manually typed text or from a text/message file. 
 
